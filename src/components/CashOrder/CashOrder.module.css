@@ -1,0 +1,28 @@
+.bgOrder{
+    background-image: url(../../assets/images/cyber-monday-retail-sales.png);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+@media only screen and (max-width: 768px) {
+   .bgOrder{
+    background-position: top right;
+   }
+  }
+ .btnCaerSubmit{
+    transition: 1s all;
+    background-color: #FCB300;
+    border: 1px solid transparent;
+ }
+ .btnCaerSubmit:hover{
+    border: 1px solid #FCB300;
+    transform: translateY(3px);
+ }
+ .colStyle{
+   
+    padding: 40px 25px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    
+ }

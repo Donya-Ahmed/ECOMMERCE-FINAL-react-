@@ -1,0 +1,16 @@
+.categoryContainer{
+    margin-top: 5rem;
+}
+.imgCategory{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.categoryItem{
+    text-align: center;
+ 
+}
+.imgCategoryContainer{
+    width: fit-content;
+    margin: auto;
+}
